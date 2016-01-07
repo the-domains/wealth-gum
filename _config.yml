@@ -1,0 +1,28 @@
+name: Wealth Gum
+favicon: null
+layout_spectrum: 0.8278169373515993
+typography_spectrum: 0.6760819246992469
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.07924246462062001
+  lightness: 0.1207749885506928
+  saturation: 0.9128993272315711
+  rhythmicContrast: 0.22829638421535492
+purpose: []
